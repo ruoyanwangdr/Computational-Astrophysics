@@ -1,0 +1,3 @@
+From the plot we can see that when the total mass of the cloud changes from 1e3 solar mass from 1e5 solar mass, they are no longer gathering. My guess to this is that since the clouds are 100 times less massive, the orbital velocity of the galaxies shift the two clouds a lot more than previously. This leads to a gap between the clouds.
+
+The longer the code runs, the radii of the cluster become bigger and eventually merge into the galaxy. 
